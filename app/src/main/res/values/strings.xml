@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aforo Seguro</string>
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_historial">Historial</string>
+    <string name="nav_ajustes">Ajustes</string>
+    <string name="canal_alertas">Alertas de aforo</string>
+</resources>
